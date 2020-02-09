@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/sevkonline/react-native-runrundeals/ios/runrundeals/AppDelegate.m \
+  /Users/sevkonline/react-native-runrundeals/ios/runrundeals/AppDelegate.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/RCTInspectorDevServerHelper.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/RCTPackagerConnection.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTBundleURLProvider.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTRootView.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/sevkonline/react-native-runrundeals/ios/Pods/Headers/Public/UMReactNativeAdapter/UMNativeModulesProxy.h
